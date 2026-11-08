@@ -30,3 +30,19 @@ JuliaLocalPreferences.toml
 
 # Conda environment and metadata created in the project directory by the CondaPkg package
 .CondaPkg/
+
+.DS_Store
+/range_a2_a5/
+/henon_a2_a5_harmonic_render/
+/henon_a2_a5_direct_render/
+/henon_a2_a5_chromatic_render/
+/*_for_logic.mid
+/*_orbit_data.tsv
+/notes_*.tsv
+/all_editions.tsv
+/henon_speaks_music_a2_a5.mp4
+/title_*.png
+/banner_*.png
+/preview_*.png
+/chapters.ffmeta
+!Manifest.toml
